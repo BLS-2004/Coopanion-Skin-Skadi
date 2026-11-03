@@ -1,0 +1,21 @@
+Arknights 素材声明
+===================
+
+本项目包含或使用以下官方游戏素材：
+- Spine .skel / .atlas / .png：骨骼、皮肤、动作和特效
+- MP3：日语角色语音和 FX
+
+版权归 Hypergryph（鹰角网络）所有。
+
+本项目：
+- 仅用于个人、非商业 fan-made 用途
+- 不销售、不收费、不提供商业授权
+- 与 Hypergryph 官方无隶属或认可关系
+
+素材来源记录：
+- PRTS Arknights char_spine
+- Aceship/Arknight-voices
+- Kengxxiao/ArknightsGameData
+
+如果权利人提出下架要求，应立即停止分发并删除相关文件。
+

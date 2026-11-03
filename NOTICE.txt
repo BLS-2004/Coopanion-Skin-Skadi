@@ -1,0 +1,50 @@
+免责声明
+========
+
+一、项目性质
+  本项目是非官方、非商业的 fan-made 项目，仅供个人学习、测试和个人使用。
+  本项目与 Hypergryph、Coopanion、cortico-world-desktop-pet 及其开发者无隶属关系，
+  也未获得任何官方认可、赞助或背书。
+
+二、使用范围
+  1. 禁止销售、收费、付费下载、会员制提供或用于任何商业服务。
+  2. 禁止将本项目或其素材用于广告、商业宣传、付费产品或商业分发。
+  3. 仅限个人在自有设备上安装、测试和使用。
+  4. 使用者应自行确认所在地区的法律、平台规则和相关授权要求。
+
+三、第三方版权
+  1. Arknights 的骨骼、皮肤、动作、视觉特效、日语语音和 FX 音效版权归 Hypergryph 所有。
+  2. Aceship、PRTS、Kengxxiao 等仅为素材镜像、整理或数据来源，不代表拥有再分发授权。
+  3. 本项目的 README、NOTICE 和许可证文件只说明来源与使用意图，不构成官方授权。
+  4. 如果任何权利人要求删除或下架相关内容，应立即停止分发并删除对应文件。
+
+四、代码许可
+  1. Coopanion / cortico-world-desktop-pet 代码许可为 AGPL-3.0-or-later。
+  2. install/patch/sound.js 是基于 Coopanion 代码的修改版，不是官方补丁。
+  3. AGPL 许可证文本见 licenses/AGPL-3.0-or-later.txt。
+  4. Spine Runtimes 使用 Esoteric Software Spine Runtimes License，文本见 licenses/Spine-Runtimes-LICENSE.txt。
+  5. 其他第三方组件许可见 licenses/Coopanion-THIRD-PARTY-NOTICES.md。
+
+五、无担保与责任限制
+  本项目按“现状”提供，不提供任何明示或默示担保，包括但不限于：
+  - 可用性
+  - 兼容性
+  - 稳定性
+  - 安全性
+  - 不中断运行
+  - 不造成数据丢失
+  - 不造成账号、系统或第三方软件异常
+
+  因安装、使用、修改、替换补丁或分发本项目而产生的任何直接或间接损失，
+  由使用者自行承担。作者不对任何后果负责。
+
+六、补丁风险
+  1. install/patch/sound.js 会替换 Coopanion 的宿主 sound.js。
+  2. 替换前请自行备份原文件。
+  3. Coopanion 更新后，补丁可能不兼容或被覆盖。
+  4. 不要在不确认目标版本的情况下盲目覆盖新版 sound.js。
+
+七、版权与下架
+  如果本项目包含的内容侵犯了你的权利，请提供具体文件和相关说明；
+  收到有效请求后，应立即删除或停止分发相关文件。
+
