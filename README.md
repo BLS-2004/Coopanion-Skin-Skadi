@@ -6,6 +6,12 @@
 
 免责声明见 [NOTICE.txt](NOTICE.txt)。
 
+## 演示
+
+- [演示视频 1](demo/1.mp4)
+- [演示视频 2](demo/2.mp4)
+- [演示视频 3](demo/3.mp4)
+
 ## 安装
 
 1. 打开 Coopanion 的皮肤/形象导入功能，导入：
